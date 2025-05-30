@@ -1,0 +1,12 @@
+pandas
+numpy 
+matplotlib
+seaborn
+scikit-learn
+lightgbm==4.6.0
+mlflow
+fastapi
+uvicorn
+pydantic
+streamlit 
+
