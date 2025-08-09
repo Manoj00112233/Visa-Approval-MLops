@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash.
 mlflow server \
   --backend-store-uri ./mlruns \
   --default-artifact-root ./mlruns \
